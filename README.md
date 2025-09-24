@@ -28,23 +28,27 @@ This project is a **machine learning-based system** designed to predict potentia
    cd heart-disease-prediction
    
 2. Install dependencies
+
 pip install -r requirements.txt
 
-3.Run the model training script
+
+3. Run the model training script
+
 python main.py
+
 
 View the results and predictions in the console/output file.
 
 📊 Results
-Applied various machine learning models to predict heart disease.
+- Applied various machine learning models to predict heart disease.
 
-Random Forest achieved the highest accuracy among tested models.
+- Random Forest achieved the highest accuracy among tested models.
 
-Demonstrated how combining signal/data processing with ML can assist in real-world healthcare applications.
+- Demonstrated how combining signal/data processing with ML can assist in real-world healthcare applications.
 
 📈 Future Work
-Integration with deep learning models for improved prediction.
+- Integration with deep learning models for improved prediction.
 
-Deploy as a web app or API for real-time diagnosis support.
+- Deploy as a web app or API for real-time diagnosis support.
 
-Expand dataset with more diverse patient records and real-world clinical data.
+- Expand dataset with more diverse patient records and real-world clinical data.
